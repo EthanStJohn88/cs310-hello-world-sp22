@@ -17,4 +17,8 @@ public class Class1 {
         // v3.1 (Hotfix resolved)
     }
 
+    private void f4() {
+        // v4.0 (Finished function)
+    }
+
 }
